@@ -11,5 +11,5 @@ An application that has functions that could organize your sales at supermarket
  3-sorting items
  4-deleting items
  5-assigning ID to every item
- 
+ 6- saving data as txt files
  
